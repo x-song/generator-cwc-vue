@@ -2,12 +2,12 @@
 
 
 ```
+npm install generator-node
+```
+```
 npm install -g yo
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 在你需要生产的文件夹 yo link
 
-
+## 执行 cwc-vue
